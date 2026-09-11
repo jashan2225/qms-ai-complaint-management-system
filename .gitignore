@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+qms_env/
+
+# Environment variables / secrets
+.env
+
+# Node.js
+node_modules/
+
+# Frontend build
+dist/
+
+# IDE
+.vscode/
+.idea/
