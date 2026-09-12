@@ -98,7 +98,7 @@ QMS_AI/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone 
 cd QMS_AI
 ```
 
